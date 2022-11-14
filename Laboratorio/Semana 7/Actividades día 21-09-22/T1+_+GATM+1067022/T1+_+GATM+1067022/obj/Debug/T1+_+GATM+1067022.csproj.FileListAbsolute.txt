@@ -1,0 +1,8 @@
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\bin\Debug\T1+_+GATM+1067022.exe.config
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\bin\Debug\T1+_+GATM+1067022.exe
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\bin\Debug\T1+_+GATM+1067022.pdb
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\obj\Debug\T1+_+GATM+1067022.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\obj\Debug\T1+_+GATM+1067022.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\obj\Debug\T1+_+GATM+1067022.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\obj\Debug\T1+_+GATM+1067022.exe
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\T1+_+GATM+1067022\T1+_+GATM+1067022\obj\Debug\T1+_+GATM+1067022.pdb

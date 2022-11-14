@@ -1,0 +1,8 @@
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\bin\Debug\L10_GATM_1067022.exe.config
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\bin\Debug\L10_GATM_1067022.exe
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\bin\Debug\L10_GATM_1067022.pdb
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\obj\Debug\L10_GATM_1067022.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\obj\Debug\L10_GATM_1067022.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\obj\Debug\L10_GATM_1067022.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\obj\Debug\L10_GATM_1067022.exe
+C:\Users\gerso\OneDrive\Escritorio\Universidad URL\Segundo ciclo\Intro a progra\Laboratorio\L10_GATM_1067022\L10_GATM_1067022\obj\Debug\L10_GATM_1067022.pdb
